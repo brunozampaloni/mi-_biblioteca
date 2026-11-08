@@ -1,0 +1,29 @@
+[2026-10-26 15:23:13 +01:00] [WARNING] [autenticacion.rechazada] La contraseña no coincide para el intento de inicio de sesión.
+[2026-10-26 15:24:56 +01:00] [INFO] [usuario.registro_exitoso] Se registró una cuenta de usuario.
+[2026-10-26 15:25:05 +01:00] [INFO] [autenticacion.exitosa] Un usuario inició sesión. | contexto={"usuario_id":12}
+[2026-10-28 14:39:28 +01:00] [INFO] [autenticacion.exitosa] Un usuario inició sesión. | contexto={"usuario_id":1}
+[2026-10-28 14:41:10 +01:00] [INFO] [libro.alta_exitosa] Se agregó un libro a la biblioteca. | contexto={"usuario_id":1}
+[2026-10-28 14:43:49 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":31,"campo":"estado"}
+[2026-10-28 14:44:12 +01:00] [INFO] [libro.alta_exitosa] Se agregó un libro a la biblioteca. | contexto={"usuario_id":1}
+[2026-10-28 14:44:22 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":39,"campo":"estado"}
+[2026-10-28 14:45:44 +01:00] [INFO] [autenticacion.exitosa] Un usuario inició sesión. | contexto={"usuario_id":1}
+[2026-10-28 14:46:12 +01:00] [INFO] [libro.alta_exitosa] Se agregó un libro a la biblioteca. | contexto={"usuario_id":1}
+[2026-10-28 14:46:18 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":1,"campo":"estado"}
+[2026-10-28 14:46:22 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":1,"campo":"puntuacion"}
+[2026-10-28 14:46:32 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":1,"campo":"resena"}
+[2026-10-28 14:46:40 +01:00] [INFO] [libro.eliminacion_exitosa] Se eliminó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":1}
+[2026-10-28 14:47:04 +01:00] [WARNING] [autenticacion.rechazada] No se encontró una cuenta para el intento de inicio de sesión.
+[2026-10-28 14:47:14 +01:00] [WARNING] [autenticacion.rechazada] No se encontró una cuenta para el intento de inicio de sesión.
+[2026-10-28 14:47:25 +01:00] [WARNING] [autenticacion.rechazada] No se encontró una cuenta para el intento de inicio de sesión.
+[2026-10-28 14:47:41 +01:00] [WARNING] [autenticacion.rechazada] No se encontró una cuenta para el intento de inicio de sesión.
+[2026-10-28 14:47:52 +01:00] [INFO] [autenticacion.exitosa] Un usuario inició sesión. | contexto={"usuario_id":2}
+[2026-10-28 14:55:41 +01:00] [WARNING] [autenticacion.rechazada] No se encontró una cuenta para el intento de inicio de sesión.
+[2026-10-28 14:56:04 +01:00] [INFO] [autenticacion.exitosa] Un usuario inició sesión. | contexto={"usuario_id":7}
+[2026-10-28 14:56:55 +01:00] [INFO] [libro.alta_exitosa] Se agregó un libro a la biblioteca. | contexto={"usuario_id":7}
+[2026-11-01 19:23:35 +01:00] [WARNING] [autenticacion.rechazada] No se encontró una cuenta para el intento de inicio de sesión.
+[2026-11-01 19:23:47 +01:00] [WARNING] [autenticacion.rechazada] No se encontró una cuenta para el intento de inicio de sesión.
+[2026-11-01 19:23:52 +01:00] [INFO] [autenticacion.exitosa] Un usuario inició sesión. | contexto={"usuario_id":1}
+[2026-11-01 19:25:03 +01:00] [INFO] [libro.alta_exitosa] Se agregó un libro a la biblioteca. | contexto={"usuario_id":1}
+[2026-11-01 19:25:31 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":3,"campo":"estado"}
+[2026-11-01 19:25:34 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":3,"campo":"puntuacion"}
+[2026-11-01 19:25:40 +01:00] [INFO] [libro.modificacion_exitosa] Se modificó un libro de la biblioteca. | contexto={"usuario_id":1,"libro_id":3,"campo":"resena"}

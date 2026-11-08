@@ -1,0 +1,44 @@
+
+
+
+body {
+    background-color: #f5f3ee;
+    color: #292f2c;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+/* Barra de navegación */
+
+.navbar {
+    background-color: #263f36 !important;
+    padding: 14px 0;
+}
+
+.navbar .navbar-brand {
+    color: #ffffff;
+    font-size: 1.3rem;
+    letter-spacing: 0.3px;
+}
+
+.navbar .nav-link {
+    color: #e4e9e5;
+    transition: color 0.2s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #e8d5ae;
+}
+
+/* Botones */
+
+.btn {
+    border-radius: 8px;
+}
+
+/* Contenido principal */
+
+main {
+    min-height: 75vh;
+    padding: 24px 0;
+}
